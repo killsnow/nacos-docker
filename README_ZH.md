@@ -26,7 +26,7 @@
 项目中修改Dockerfile.Slim中的镜像源，支持x86/arm64打包
 
 ## Docker镜像2.2.0-slim
-https://hub.docker.com/r/killsnow/nacos[https://hub.docker.com/r/killsnow/nacos]
+[https://hub.docker.com/r/killsnow/nacos](https://hub.docker.com/r/killsnow/nacos)
 
 ## 快速开始
 
@@ -35,7 +35,7 @@ https://hub.docker.com/r/killsnow/nacos[https://hub.docker.com/r/killsnow/nacos]
 * Clone project
 
   ```powershell
-  git clone --depth 1 https://github.com/nacos-group/nacos-docker.git
+  git clone git@github.com:killsnow/nacos-docker.git
   cd nacos-docker
   ```
 

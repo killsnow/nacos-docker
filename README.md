@@ -26,7 +26,7 @@ This project contains a Docker image meant to facilitate the deployment of [Naco
 Mod base image Dockerfile.Slim，support x86/arm64.
 
 ## Docker image 2.2.0-slim
-https://hub.docker.com/r/killsnow/nacos[https://hub.docker.com/r/killsnow/nacos]
+[https://hub.docker.com/r/killsnow/nacos](https://hub.docker.com/r/killsnow/nacos)
 
 ## Quick Start
 
@@ -48,7 +48,7 @@ Run the following command：
 * Clone project
 
   ```powershell
-  git clone --depth 1 https://github.com/nacos-group/nacos-docker.git
+  git clone git@github.com:killsnow/nacos-docker.git
   cd nacos-docker
   ```
 
