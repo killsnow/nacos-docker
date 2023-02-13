@@ -22,6 +22,12 @@
   第一次启动Nacos前需要手动初始化 [数据库脚本](https://github.com/alibaba/nacos/blob/develop/distribution/conf/nacos-mysql.sql)
   .
 
+## 项目fork说明
+项目中修改Dockerfile.Slim中的镜像源，支持x86/arm64打包
+
+## Docker镜像2.2.0-slim
+https://hub.docker.com/r/killsnow/nacos[https://hub.docker.com/r/killsnow/nacos]
+
 ## 快速开始
 
 打开命令窗口执行：

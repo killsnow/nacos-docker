@@ -22,6 +22,12 @@ This project contains a Docker image meant to facilitate the deployment of [Naco
   the [database script](https://github.com/alibaba/nacos/blob/develop/distribution/conf/nacos-mysql.sql) yourself for
   the first time.
 
+## fork description
+Mod base image Dockerfile.Slim，support x86/arm64.
+
+## Docker image 2.2.0-slim
+https://hub.docker.com/r/killsnow/nacos[https://hub.docker.com/r/killsnow/nacos]
+
 ## Quick Start
 
 ```shell
